@@ -1,1 +1,1 @@
-# Repositorio de Tareas para el curso de programación Orientada a Objetos ELO329 UTFSM
+# Repositorio de Tareas para desarrolladas el curso de programación Orientada a Objetos ELO329 UTFSM
